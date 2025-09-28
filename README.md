@@ -33,5 +33,5 @@ Request body:
   "currency": "INR",
   "description": "TEST PAYMENT",
   "receiptEmail": "user@example.com",
-  "paymentMethodId": "upi@123"
+  "paymentMethodId": "upi@icici"
 }
